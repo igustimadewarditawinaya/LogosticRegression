@@ -58,7 +58,7 @@ Kami menggunakan beberapa metrik evaluasi untuk mengukur performa model, termasu
 - **Recall**: Mengukur seberapa baik model dalam menangkap semua instance positif.
 - **F1-Score**: Rata-rata harmonik dari precision dan recall.
 
-Hasil evaluasi menunjukkan bahwa Logistic Regression memberikan performa yang cukup baik dalam menyelesaikan masalah klasifikasi ini. Jika diperlukan peningkatan performa, dapat dilakukan **hyperparameter tuning** atau mencoba model lain seperti **SVM atau Random Forest**.
+Hasil evaluasi menunjukkan bahwa Logistic Regression memberikan performa yang cukup baik dalam menyelesaikan masalah klasifikasi ini.
 
 ---
 Laporan ini memberikan pemahaman yang jelas tentang bagaimana Logistic Regression dapat diterapkan dalam kasus klasifikasi data pengguna media sosial. Dengan hasil yang diperoleh, bisnis dapat menggunakan model ini untuk mendukung keputusan pemasaran yang lebih strategis.
