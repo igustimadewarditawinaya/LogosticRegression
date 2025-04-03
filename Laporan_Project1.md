@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Logistic Regression
+# Laporan Proyek Machine Learning - I Gusti Made Wardita Winaya 
 
 ## Domain Proyek
 Pada era digital saat ini, data dari media sosial dapat digunakan untuk memahami perilaku pengguna dan membuat keputusan bisnis yang lebih baik. Salah satu aplikasi dari Machine Learning adalah dalam menentukan apakah seorang pengguna akan membeli suatu produk berdasarkan atribut tertentu. Dalam proyek ini, kami menggunakan algoritma **Logistic Regression** untuk melakukan klasifikasi terhadap data pengguna dari dataset **Social_Network_Ads.csv**.
